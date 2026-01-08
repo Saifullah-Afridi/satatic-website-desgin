@@ -5,6 +5,7 @@ import Section4 from "@/components/ui/custom-component/section5";
 import Section6 from "@/components/ui/custom-component/Section6";
 import Section7 from "@/components/ui/custom-component/Section7";
 import Section8 from "@/components/ui/custom-component/Section8";
+import New from "@/components/ui/custom-component/New";
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
       <Section6 />
       <Section7 />
       <Section8 />
+      <New />
     </div>
   );
 }
