@@ -9,7 +9,7 @@ export default function Section7() {
           <div>
             <p className="text-sm text-gray-600 mb-2">Complete the Quiz</p>
 
-            <h2 className="text-3xl font-bold text-black mb-8">
+            <h2 className="text-3xl font-bold` text-black mb-8">
               Which Case Is Right for You?
             </h2>
 
