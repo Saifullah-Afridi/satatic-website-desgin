@@ -57,7 +57,7 @@ const products = [
 
 export default function Products() {
   return (
-    <div className="p-8 bg-white my-20">
+    <div className="p-8 bg-white mynp-20">
       {/* Top Tabs */}
       <div className="flex space-x-2 justify-end mb-6">
         {tabs.map((tab, idx) => (
